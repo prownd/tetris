@@ -1,3 +1,7 @@
+/**
+ *author:hanjinpeng
+ *545751287@qq.com
+ */
 #ifndef BLOCK_H
 #define BLOCK_H
 #include<QtGui/QtGui>

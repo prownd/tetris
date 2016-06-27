@@ -1,3 +1,7 @@
+/**
+ *author:hanjinpeng
+ *545751287@qq.com
+ */
 #include "tetrisgame.h"
 
 #include<QtGui/QtGui>
