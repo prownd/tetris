@@ -1,5 +1,8 @@
-HEADERS += tetrisgame.h \
-    tetris.h
-SOURCES += main.cpp \
-    tetrisgame.cpp \
-    tetris.cpp
+MOC_DIR=./tmp
+OBJECTS_DIR=./tmp
+
+HEADERS += src/tetrisgame.h \
+    src/tetris.h
+SOURCES += src/main.cpp \
+    src/tetrisgame.cpp \
+    src/tetris.cpp
