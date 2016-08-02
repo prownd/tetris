@@ -1,3 +1,4 @@
+TARGET =tetris
 MOC_DIR=./tmp
 OBJECTS_DIR=./tmp
 
